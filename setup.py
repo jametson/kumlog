@@ -8,7 +8,7 @@ setup(
     author_email="alam.listyadi@gmail.com",
     url="https://github.com/jametson/kumlog",
     description="Kumparanian Log Format",
-    long_description=open("README.rst", "r").read(),
+    long_description=open("README.md", "r").read(),
     license="BSD 3-Clause License",
     packages=[
         "logformat",
