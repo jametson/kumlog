@@ -16,3 +16,8 @@
 
 # IDE files
 .idea
+
+# Python package
+dist/
+*.egg-info
+build/
