@@ -1,0 +1,18 @@
+# Python byte files
+*.pyc
+
+# Mac Stuff
+.DS_Store
+
+# Sublime text stuff
+*.sublime*
+
+# pycharm
+.idea/
+
+# MyPy
+*mypy_cache*
+*pycache*
+
+# IDE files
+.idea
